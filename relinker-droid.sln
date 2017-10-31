@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xbindings.ReLinker.Droid", "Xbindings.ReLinker.Droid\Xbindings.ReLinker.Droid.csproj", "{8B86089E-B45B-4906-ABCD-A45744A09F55}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo", "demo", "{5FA29D4A-D1D5-4ABA-8528-85401CE86319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReLinkerQs", "demo\ReLinkerQs\ReLinkerQs.csproj", "{AE2C8235-5FFC-4E63-80A2-6A817DFCA071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B86089E-B45B-4906-ABCD-A45744A09F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B86089E-B45B-4906-ABCD-A45744A09F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B86089E-B45B-4906-ABCD-A45744A09F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B86089E-B45B-4906-ABCD-A45744A09F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE2C8235-5FFC-4E63-80A2-6A817DFCA071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2C8235-5FFC-4E63-80A2-6A817DFCA071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2C8235-5FFC-4E63-80A2-6A817DFCA071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2C8235-5FFC-4E63-80A2-6A817DFCA071}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AE2C8235-5FFC-4E63-80A2-6A817DFCA071} = {5FA29D4A-D1D5-4ABA-8528-85401CE86319}
+	EndGlobalSection
+EndGlobal

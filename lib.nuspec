@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Xbindings.ReLinker.Droid</id>
+        <version>1.2.3</version>
+        <authors>XBindings</authors>
+        <owners>XBindings</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>ReLinker for Android</title>
+        <summary>Xamarin.Android binding library - ReLinker</summary>
+        <description>Xamarin.Android binding library - ReLinker</description>
+        <releaseNotes>ReLinker v1.2.3</releaseNotes>
+        <iconUrl>https://raw.githubusercontent.com/KeepSafe/ReLinker/1.2/web/logo.png</iconUrl>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/xbindings/relinker-android-binding</projectUrl>
+        <copyright>Copyright (c) 2017 XBindings</copyright>
+        <tags>Xamarin.Android, xamarin, xamarin-android, relinker</tags>
+        <dependencies>
+            <!-- <dependency id="Xamarin.Android.Support.Annotations" version="25.4.0.2" />
+            <dependency id="Xamarin.Android.Support.Design" version="25.4.0.2" />
+            <dependency id="Xamarin.Android.Support.v7.AppCompat" version="25.4.0.2" /> -->
+        </dependencies>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Xbindings.ReLinker.Droid/bin/Release/Xbindings.ReLinker.Droid.dll" target="lib/MonoAndroid10/Xbindings.ReLinker.Droid.dll" />
+    </files>
+</package>
