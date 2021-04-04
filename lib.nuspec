@@ -3,14 +3,14 @@
     <metadata>
         <!-- Required elements-->
         <id>Xbindings.ReLinker.Droid</id>
-        <version>1.2.3</version>
+        <version>1.4.3</version>
         <authors>XBindings</authors>
         <owners>XBindings</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>ReLinker for Android</title>
         <summary>Xamarin.Android binding library - ReLinker</summary>
         <description>Xamarin.Android binding library - ReLinker</description>
-        <releaseNotes>ReLinker v1.2.3</releaseNotes>
+        <releaseNotes>ReLinker v1.4.3</releaseNotes>
         <iconUrl>https://raw.githubusercontent.com/KeepSafe/ReLinker/1.2/web/logo.png</iconUrl>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/xbindings/relinker-android-binding</projectUrl>
